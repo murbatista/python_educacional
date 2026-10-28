@@ -1,4 +1,3 @@
 # python_educacional
 
-
-https://github.com/murbatista/python_educacional/blob/main/educacional.html
+https://murbatista.github.io/python_educacional/
